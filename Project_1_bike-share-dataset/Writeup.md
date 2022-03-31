@@ -1,19 +1,13 @@
+
+# The Case Study
 ## Instroduction
+The company wants to increase user subscriptions on their yearly subscription program. The company has two types of users: casual users, who use bikes for one day, and members, who are subscribed to the program.
 
-This document contains a case study introduced by the Google Analytics team from the data analysis certificated on Coursera.
-https://www.coursera.org/professional-certificates/google-data-analytics
-
-The student was required to explore and modify the analysis, make conclusions and create a report with 3 principal recommendations to solve the company's main problem. The data used for this case is from Divvybikes.com a bike-share company from Chicago: https://ride.divvybikes.com/
-
-## The Case Study
-
-The company wants to increment their user subscriptions on their yearly subscription program. The company has two types of users: casual users, who use bikes for one day, and members, who are subscribed to the program.
-
-The company wants to attract more casual users to the yearly subscription program since it generates more revenue. 
+`The company wants to attract more casual users to the yearly subscription program since it generates more revenue. `
 
 To do a business plan to attract more members, Cyclistic provided a data-set with information about trips of all users. Inside the data-set, users are classified into two groups `casual` and `member`.  
 
-*I imported data from 2019 last quarter and 2020 first quarter to identify patterns that help me form a business plan/strategy.*
+*I imported data from 2019 to 2020 first quarter to identify patterns that help me form a business plan/strategy.*
 
 #### key stakeholders
 
@@ -27,12 +21,12 @@ Why would casual riders buy Cyclistic annual memberships?
 
 How can Cyclistic use digital media to influence casual riders to become members?
 
-## Devepment
+## Development
 ### 2. Prepare
 
-Downloaded the files from divvy's dataset: https://divvy-tripdata.s3.amazonaws.com/index.html
+I Downloaded the files from divvy's dataset: https://divvy-tripdata.s3.amazonaws.com/index.html
 
-I stored the dataset in a local folder separating the CSV original files and the copy I am working on.
+Then stored the dataset in a local folder separating the CSV original files and the copy I am working on.
 
 `~/CSV
  ~/CSV-Copy/Working-directory
